@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cassandra Paschall"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cassandra Paschall"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cassandra Paschall"
-  avatar           : "cassie.jpg"
+  avatar           : "profile.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Portland, Oregon"
   employer         : Cure Violence Global
